@@ -9,6 +9,7 @@ I've laid some groundwork:
 - A dialogue system implemented using Ink
 
 Mostly developed from scratch in a period of a month.
+
 ![Features preview](https://github.com/tristansuud/harddecision/blob/main/gifshowcase/gif1.gif)
 ![](https://github.com/tristansuud/harddecision/blob/main/gifshowcase/gif2.gif)
 ![](https://github.com/tristansuud/harddecision/blob/main/gifshowcase/gif3.gif)
